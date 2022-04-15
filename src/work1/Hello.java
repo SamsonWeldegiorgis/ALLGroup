@@ -12,6 +12,7 @@ public class Hello {
         // work 1
 
         System.out.println("Local Repo is already pushed to GitHub");
+        System.out.println("Doing more work");
 
     }
 }
