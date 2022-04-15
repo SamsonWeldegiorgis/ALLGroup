@@ -10,5 +10,8 @@ public class Hello {
         System.out.println("Developing hello feature");
 
         // work 1
+
+        System.out.println("Local Repo is already pushed to GitHub");
+
     }
 }
